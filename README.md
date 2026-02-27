@@ -32,9 +32,7 @@ It is suitable for:
 ## 📝 How It Works
 
 The card displays a birthday message like:
-![Image](https://github.com/user-attachments/assets/caa9c81c-f753-4254-a4e5-dd849a3cfe74)
-![Image](https://github.com/user-attachments/assets/309bae6a-10b5-492b-b7d8-c06cd284ba7c)
-![Image](https://github.com/user-attachments/assets/f1af5608-7cb4-4c14-a7e5-5935b2c40d50)
+![Image](https://github.com/user-attachments/assets/989499d7-0c22-4644-8d30-002a6f00882d)
 
 ---
 
