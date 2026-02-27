@@ -31,8 +31,8 @@ It is suitable for:
 ---
 ## 📝 How It Works
 
-The card displays a birthday message like:
 ![Image](https://github.com/user-attachments/assets/989499d7-0c22-4644-8d30-002a6f00882d)
+![Image](https://github.com/user-attachments/assets/bdc61fc6-3729-4194-bf02-45734e2aa8df)
 
 ---
 
