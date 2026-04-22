@@ -18,17 +18,6 @@ It is suitable for:
 - Practice and learning responsive layout design
 
 ---
-
-## 🚀 Features
-
-- ✅ 100% Responsive Design  
-- ✅ Built with pure HTML5 & CSS3  
-- ✅ Clean and Minimal UI  
-- ✅ Mobile-Friendly Layout  
-- ✅ No JavaScript  
-- ✅ Easy to Customize  
-
----
 ## 📝 How It Works
 
 ![Image](https://github.com/user-attachments/assets/989499d7-0c22-4644-8d30-002a6f00882d)
@@ -39,6 +28,17 @@ It is suitable for:
 ![Image](https://github.com/user-attachments/assets/684a46c6-300c-4495-84aa-4f2c77dafce5)
 ![Image](https://github.com/user-attachments/assets/843c579e-fce8-4770-b7d1-47030d9f4437)
 ![Image](https://github.com/user-attachments/assets/750d814a-df5e-4d8d-81ce-f54a424ba817)
+
+---
+
+## 🚀 Features
+
+- ✅ 100% Responsive Design  
+- ✅ Built with pure HTML5 & CSS3  
+- ✅ Clean and Minimal UI  
+- ✅ Mobile-Friendly Layout  
+- ✅ No JavaScript  
+- ✅ Easy to Customize  
 
 ---
 
