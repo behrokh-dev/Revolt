@@ -32,6 +32,7 @@ It is suitable for:
 ## 📝 How It Works
 
 ![Image](https://github.com/user-attachments/assets/989499d7-0c22-4644-8d30-002a6f00882d)
+![Image](https://github.com/user-attachments/assets/1aa60c2a-70f5-4b02-be88-d55657c9129e)
 ![Image](https://github.com/user-attachments/assets/bdc61fc6-3729-4194-bf02-45734e2aa8df)
 ![Image](https://github.com/user-attachments/assets/1c584e99-acd5-4147-adfb-4aabcbce17c8)
 ![Image](https://github.com/user-attachments/assets/eee85cc2-c8f4-4ec7-86fc-059b8ef1ea7d)
