@@ -1,4 +1,4 @@
-# 📌 Revolt – Responsive Landing Page
+# 📌 Revolt 
 
 🔗 **Live Demo:**  
 https://behrokh-dev.github.io/Revolt/
