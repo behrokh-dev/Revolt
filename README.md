@@ -18,7 +18,7 @@ It is suitable for:
 - Practice and learning responsive layout design
 
 ---
-## 📝 How It Works
+## 💻 Desktop Preview
 
 ![Image](https://github.com/user-attachments/assets/989499d7-0c22-4644-8d30-002a6f00882d)
 ![Image](https://github.com/user-attachments/assets/1aa60c2a-70f5-4b02-be88-d55657c9129e)
