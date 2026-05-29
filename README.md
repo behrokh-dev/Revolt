@@ -7,9 +7,9 @@ https://behrokh-dev.github.io/Revolt/
 
 ## 💡 About The Project
 
-**Revolt** is a modern, clean, and fully responsive landing page built using only **HTML5** and **CSS3**.
+**Revolt** is a modern and clean landing page built using only **HTML5** and **CSS3**.
 
-This project focuses on simplicity, performance, and responsive design without using any JavaScript libraries or frameworks.
+This project focuses on simplicity and performance design without using any JavaScript libraries or frameworks.
 
 It is suitable for:
 - Personal portfolios
@@ -33,7 +33,6 @@ It is suitable for:
 
 ## 🚀 Features
 
-- ✅ 100% Responsive Design  
 - ✅ Built with pure HTML5 & CSS3  
 - ✅ Clean and Minimal UI  
 - ✅ Mobile-Friendly Layout  
@@ -46,32 +45,6 @@ It is suitable for:
 
 - HTML5
 - CSS3
-
----
-
-## 📱 Responsive Design
-
-The layout is fully responsive and adapts smoothly to different screen sizes:
-
-- Desktop 💻  
-- Tablet 📱  
-- Mobile 📲  
-
-Media queries and flexible layout techniques are used to ensure proper scaling and structure across devices.
-
-
----
-
-## 🔧 How To Use
-
-1. Download or clone the repository:
-   ```
-   git clone https://github.com/Behrokh-Dev/Revolt.git
-   ```
-
-2. Open `index.html` in your browser.
-
-3. Edit the HTML and CSS files to customize the template.
 
 ---
 
